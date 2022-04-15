@@ -60,7 +60,7 @@ namespace BaigiamasisDarbas.Page
         {
             firstLoginButton.Click();
             emailField.SendKeys("dprtest@protonmail.com");
-            passwordField.SendKeys("C1580zzzzz");
+            passwordField.SendKeys("");
             secondLoginButtonButton.Click();
         }
 
